@@ -28,7 +28,7 @@ Iniciar o Servidor de Desenvolvimento:
 No terminal do VSCode, execute:
 
 npm run dev  
-Isso iniciará o servidor de desenvolvimento do Expo.
 
+Isso iniciará o servidor de desenvolvimento do Expo.
 Um navegador web abrirá automaticamente com seu aplicativo em execução.
 _______________________________________________________________________
