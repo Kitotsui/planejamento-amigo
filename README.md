@@ -4,7 +4,9 @@ _______________________________________________________________________
 Instale as seguintes extensões no VSCode:
 
 React Native Tools
+
 ESLint
+
 Prettier
 _______________________________________________________________________
 Clonar e Configurar o Projeto:
